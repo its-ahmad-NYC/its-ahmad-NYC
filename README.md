@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Muhammad Ahmad and I'm a Node JS Developer</h2>
 
-I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend development, integrating complex APIs, and creating smooth, responsive user interfaces.
+I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend and frontend development, integrating complex APIs, and creating smooth, responsive user interfaces.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=its-ahmad-nyc&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
