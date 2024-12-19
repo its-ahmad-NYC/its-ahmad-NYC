@@ -34,3 +34,10 @@ I am passionate developer with tons of experience with Node JS.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ahmad-nyc&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<div align="center">
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/its-ahmad-nyc/its-ahmad-nyc/output/github-contribution-grid-snake-dark.svg)
+  
+  ![GitHub stats](https://raw.githubusercontent.com/its-ahmad-nyc/its-ahmad-nyc/master/profile-3d-contrib/profile-night-green.svg)
+</div>
+
